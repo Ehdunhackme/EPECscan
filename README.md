@@ -30,7 +30,9 @@ Push Changes:
 git push origin main
 ```
 OR
-![image](https://github.com/Ehdunhackme/STSY-project/assets/75579286/10a5561c-ac86-4a66-833b-b05920494ccb)
+
+![image](https://github.com/Ehdunhackme/STSY-project/assets/75579286/30ee62e6-4627-441c-9a35-88fdf9c5db4b)
+
 
 ## Requirement (library that u need to download for now) 
 - os: Operating system operations
