@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# STSY-project
-=======
 # STSY-project
 
 ## Project Abstract
