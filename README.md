@@ -7,4 +7,35 @@ The manual screening process for detecting Escherichia coli (E. coli) bacteria i
 ## Installation
 To use this project, follow these steps:
 - Clone the Repository: Clone this repository to your local machine using the following command:
-> git clone https://github.com/your-username/project-name.git
+```
+git clone https://github.com/your-username/project-name.git
+```
+## Committing and Pushing Changes
+To commit and push changes to this repository, follow these steps:
+
+Add Repo:
+```
+git remote add origin https://github.com/Ehdunhackme/STSY-project.git
+```
+Stage Changes: 
+```
+git add .
+```
+Commit Changes: 
+```
+git commit -m "Your descriptive commit message"
+```
+Push Changes: 
+```
+git push origin main
+```
+
+## Requirement (library that u need to download for now) 
+-os: Operating system operations
+-numpy: Numerical computing library
+-tensorflow: Deep learning framework
+-matplotlib: Plotting and visualization
+-optuna: Hyperparameter optimization
+-sklearn: Machine learning library for evaluation metrics
+-efficientnet.tfkeras: EfficientNet models for TensorFlow
+-tensorflow.keras: Deep learning API for building and training models
