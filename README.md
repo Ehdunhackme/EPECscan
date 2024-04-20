@@ -31,11 +31,11 @@ git push origin main
 ```
 
 ## Requirement (library that u need to download for now) 
--os: Operating system operations
--numpy: Numerical computing library
--tensorflow: Deep learning framework
--matplotlib: Plotting and visualization
--optuna: Hyperparameter optimization
--sklearn: Machine learning library for evaluation metrics
--efficientnet.tfkeras: EfficientNet models for TensorFlow
--tensorflow.keras: Deep learning API for building and training models
+- os: Operating system operations
+- numpy: Numerical computing library
+- tensorflow: Deep learning framework
+- matplotlib: Plotting and visualization
+- optuna: Hyperparameter optimization
+- sklearn: Machine learning library for evaluation metrics
+- efficientnet.tfkeras: EfficientNet models for TensorFlow
+- tensorflow.keras: Deep learning API for building and training models
