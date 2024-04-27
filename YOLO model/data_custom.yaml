@@ -1,0 +1,6 @@
+train: C:\Users\yeohp\Documents\Tensorflow\YOLO\train
+val: C:\Users\yeohp\Documents\Tensorflow\YOLO\val
+
+nc: 1
+
+names: ["E-coli"]
