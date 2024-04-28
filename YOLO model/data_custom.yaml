@@ -1,5 +1,5 @@
-train: C:\Users\yeohp\Documents\Tensorflow\YOLO\train
-val: C:\Users\yeohp\Documents\Tensorflow\YOLO\val
+train: C:\Users\CoolBoy\Documents\YJS\YOLO\train
+val: C:\Users\CoolBoy\Documents\YJS\YOLO\val
 
 nc: 1
 
