@@ -1,0 +1,6 @@
+train: "./Training Data/augmented data"
+val: "./Training Data/augmented data"
+
+names:
+0: rod 
+1: microcolony
