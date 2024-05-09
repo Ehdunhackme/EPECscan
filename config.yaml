@@ -1,0 +1,8 @@
+#EDIT THE PATH
+path: C:/Users/yeohp/Documents/STSY-project/Training Data
+train: train\images
+val: val\images
+
+names:
+  0: rod 
+  1: microcolony

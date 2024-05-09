@@ -1,6 +1,0 @@
-train: "./Training Data/train/images"
-val: "./Training Data/val/images"
-
-names:
-  0: rod 
-  1: microcolony
