@@ -1,2 +1,2 @@
-import ultralytics
+import ultralytics 
 ultralytics.checks()
