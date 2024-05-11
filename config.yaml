@@ -1,5 +1,5 @@
 #EDIT THE PATH
-path: C:/Users/yeohp/Documents/STSY-project/Training Data
+path: C:\Users\dunli\Documents\STSY-project-main\Training Data
 train: train\images
 val: val\images
 
