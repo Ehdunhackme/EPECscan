@@ -1,6 +1,0 @@
-train: C:\Users\CoolBoy\Documents\YJS\YOLO\train
-val: C:\Users\CoolBoy\Documents\YJS\YOLO\val
-
-nc: 1
-
-names: ["E-coli"]
