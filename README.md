@@ -1,4 +1,4 @@
-# STSY-project
+# EcoliScan: A Rapid Screening Model for Detecting Escherichia coli Bacteria From Water Samples Using Deep Learning
 
 ## Project Abstract
 
