@@ -6,4 +6,6 @@ Escherichia coli, commonly known as E. coli, is a gram-negative bacteria that ca
 
 ## Result Preview
 
-![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5fdfb80b-149b-454b-b417-a2d73c84283a)
+![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5fdfb80b-149b-454b-b417-a2d73c84283a) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/bf9c9aa4-c0a0-4274-9031-06c8bdd385f4) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5a7f66cd-b9bb-41e7-988d-a20753455c95)
+
+
