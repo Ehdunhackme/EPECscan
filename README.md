@@ -1,4 +1,4 @@
-# EcoliScan: A Rapid Screening Model for Detecting Escherichia coli Bacteria From Water Samples Using Deep Learning
+# EcoliScan: A Rapid Screening Model for Detecting Escherichia coli Bacteria From Microscopic Water Samples Using Deep Learning
 
 ## Project Abstract
 
