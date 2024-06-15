@@ -1,8 +1,0 @@
-2024-06-15 19:45:50 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
-2024-06-15 19:45:50 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
-2024-06-15 19:45:55 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
-2024-06-15 19:46:47 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
-2024-06-15 19:46:47 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
-2024-06-15 19:48:35 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
-2024-06-15 19:48:55 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
-2024-06-15 19:50:21 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
