@@ -1,0 +1,5 @@
+2024-06-15 11:27:15,345 INFO    StreamThr :24324 [internal.py:wandb_internal():85] W&B internal server running at pid: 24324, started at: 2024-06-15 11:27:15.344871
+2024-06-15 11:27:15,345 DEBUG   HandlerThread:24324 [handler.py:handle_request():158] handle_request: status
+2024-06-15 11:27:15,354 INFO    WriterThread:24324 [datastore.py:open_for_write():87] open: c:\Users\dunli\Documents\STSY-project-main\Training_Code\wandb\run-20240615_112715-w4spl361\run-w4spl361.wandb
+2024-06-15 11:27:15,354 DEBUG   SenderThread:24324 [sender.py:send():378] send: header
+2024-06-15 11:27:15,383 DEBUG   SenderThread:24324 [sender.py:send():378] send: run
