@@ -9,7 +9,7 @@ Enteropathogenic Escherichia coli, commonly known as EPEC, is a gram-negative ba
 ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5fdfb80b-149b-454b-b417-a2d73c84283a) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/bf9c9aa4-c0a0-4274-9031-06c8bdd385f4) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5a7f66cd-b9bb-41e7-988d-a20753455c95)
 
 
-## Decision Heatmap Using GradCAM++
+## Decision Heatmaps Preview Using GradCAM++
 
 ![output2](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/feb230e4-0e05-4242-846e-769582d52473) ![output3](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/b0a6cc6a-c16f-4db7-8984-a058ad5dc6f5) ![output16](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/73184770-00b4-4d57-a46e-765e0fd9b896)
 
