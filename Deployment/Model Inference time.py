@@ -9,7 +9,7 @@ import torch
 import seaborn as sns
 
 # Configuration
-DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+DEVICE = torch.device('cpu')
 MODEL_PATH = r"C:\Users\dunli\Documents\STSY-project-main\Model Training\runs\detect\train16\weights\best.pt"
 TEST_DATA_DIR = r"C:\Users\dunli\Documents\STSY-project-main\Training Data\Original Data\test_images"
 LOG_CSV_PATH = "log.csv"
