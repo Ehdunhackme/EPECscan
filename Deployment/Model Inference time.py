@@ -10,7 +10,7 @@ import seaborn as sns
 
 # Configuration
 DEVICE = torch.device('cpu')
-MODEL_PATH = r"C:\Users\dunli\Documents\STSY-project-main\Model Training\runs\detect\train16\weights\best.pt"
+MODEL_PATH = r"C:\Users\dunli\Documents\STSY-project-main\Model Training\runs\detect\train\weights\best.pt"
 TEST_DATA_DIR = r"C:\Users\dunli\Documents\STSY-project-main\Training Data\Original Data\test_images"
 LOG_CSV_PATH = "log.csv"
 

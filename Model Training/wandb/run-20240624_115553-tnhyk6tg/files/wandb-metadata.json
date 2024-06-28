@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.6",
+    "heartbeatAt": "2024-06-24T03:55:54.713924",
+    "startedAt": "2024-06-24T03:55:53.356534",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Ehdunhackme/EPECscan.git",
+        "commit": "7daac10d517297191382858f01d5046c48a90923"
+    },
+    "email": "dunlinmy88@gmail.com",
+    "root": "C:/Users/dunli/Documents/STSY-project-main",
+    "host": "raxec",
+    "username": "dunli",
+    "executable": "c:\\Users\\dunli\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2500.0,
+        "min": 0.0,
+        "max": 2500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 0.0,
+            "max": 2500.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 448.8030433654785,
+            "used": 395.9978561401367
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.629745483398438
+    }
+}
