@@ -10,7 +10,9 @@ https://huggingface.co/spaces/EPECScan/EPECScan
 
 ## Results Preview
 
-![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5fdfb80b-149b-454b-b417-a2d73c84283a) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/bf9c9aa4-c0a0-4274-9031-06c8bdd385f4) ![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5a7f66cd-b9bb-41e7-988d-a20753455c95)
+![image](https://github.com/user-attachments/assets/de43aa53-5fae-45f3-bb91-ef61b5ba2d60)
+![image](https://github.com/user-attachments/assets/f1b5a7a3-39be-46d0-867c-b0faf6fafccc)
+![image](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/5a7f66cd-b9bb-41e7-988d-a20753455c95)
 
 
 ## Decision Heatmaps Preview Using GradCAM++
