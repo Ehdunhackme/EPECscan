@@ -1,4 +1,4 @@
-# EPECscan: A Deep Learning-based Screening Model for Detecting Enteropathogenic Escherichia coli Bacteria From Microscopic Water Samples
+# EPECscan: A Deep Learning-based Screening Model for Detecting and Classifying the Growth Stage of Enteropathogenic Escherichia coli Bacteria From Microscopic Water Samples
 
 ## Project Abstract
 
