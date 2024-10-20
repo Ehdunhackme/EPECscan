@@ -12,11 +12,20 @@ https://huggingface.co/spaces/EPECScan/EPECScan
 
 ![image](https://github.com/user-attachments/assets/de43aa53-5fae-45f3-bb91-ef61b5ba2d60) ![image](https://github.com/user-attachments/assets/ac53e797-957b-4a8e-af9b-c1091bdb92e8)
 
-
-
 ## Decision Heatmaps Preview Using GradCAM++
 
 ![output2](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/feb230e4-0e05-4242-846e-769582d52473) ![output3](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/b0a6cc6a-c16f-4db7-8984-a058ad5dc6f5) ![output16](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/73184770-00b4-4d57-a46e-765e0fd9b896)
+
+## PR curve
+![P_curve](https://github.com/user-attachments/assets/91188ef8-07b0-49ab-b61d-e9d76a6ca1e5)
+
+## Confusion Matrix
+![confusion matrix](https://github.com/user-attachments/assets/a1a2f70b-02aa-43ca-bd0f-a5fe8fcee200)
+
+
+## Model inference time histogram
+![Model Inference Histogram With CPU](https://github.com/user-attachments/assets/1bf4b583-96f8-441e-9a2e-9ba79715ef55)
+
 
 
 
