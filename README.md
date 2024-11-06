@@ -17,7 +17,8 @@ https://huggingface.co/spaces/EPECScan/EPECScan
 ![output2](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/feb230e4-0e05-4242-846e-769582d52473) ![output3](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/b0a6cc6a-c16f-4db7-8984-a058ad5dc6f5) ![output16](https://github.com/Ehdunhackme/EcoliScan/assets/75579286/73184770-00b4-4d57-a46e-765e0fd9b896)
 
 ## PR curve
-![PR_curve](https://github.com/user-attachments/assets/6f763508-2738-4d18-ab13-32e53e6136be)
+![PR_curve](https://github.com/user-attachments/assets/458d9337-dc0c-44ff-8ff6-6b46d0bf725b)
+
 
 
 ## Confusion Matrix
